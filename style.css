@@ -1,0 +1,49 @@
+
+.side{
+     
+    height: 100%;
+ width: 250px;
+ position: absolute;
+ left: 0;
+ top: 0;
+ padding-top: 40px;
+    
+ border:  solid black 3px;
+ background-color: blue;
+
+}
+.m{
+    text-align: center;
+    border: black solid 3px;
+    height: 100%;
+    width: 100%;
+    
+
+}
+.tit{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.nam{
+
+ -moz-appearance:textfield;
+}
+
+label{
+    display: inline-block;
+}
+input{
+    display: inline-block;
+   
+}
+.b1{
+    background-color: antiquewhite;
+}
+.airia{
+    resize: none;
+    
+}
+
+   
